@@ -383,16 +383,6 @@
           <GroupName>User</GroupName>
           <Files>
             <File>
-              <FileName>LCD.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\User\LCD.c</FilePath>
-            </File>
-            <File>
-              <FileName>LCD.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\User\LCD.h</FilePath>
-            </File>
-            <File>
               <FileName>main.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\User\main.h</FilePath>
@@ -401,11 +391,6 @@
               <FileName>main.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\User\main.c</FilePath>
-            </File>
-            <File>
-              <FileName>pictures.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\User\pictures.h</FilePath>
             </File>
           </Files>
         </Group>
